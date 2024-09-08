@@ -45,16 +45,3 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=RozhkoGoLang&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=RozhkoGoLang&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
