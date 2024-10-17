@@ -21,7 +21,7 @@
 <br/>  
 
 ## Rapidfire  
-- 🌱 I’m currently learning Kubernetes and approve GoLang skills  
+- 🌱 I’m currently learning Kubernetes and approve GoLang and Python skills 
 - ❓ Ask me about anything related to ERP,IFRS stack and related technologies  
 - ⚡ Fun fact: I love playing D&D  
 
