@@ -17,7 +17,7 @@
   - Due to my ability to minimise risks and solve complex problems, I have effectively avoided numerous problems related to the growth of information bases and data security. 
   - As a leader, I have ensured high productivity and efficiency of teams, working effectively in both project-based and Agile styles.
   - My experience in process optimisation and automation, including the implementation of release-based approaches and systematisation of task description requirements, translates into the ability to effectively manage time and resources, providing accurate estimates and taking responsibility for key deliverables.
-  - Given my wealth of experience and dedication, I am highly motivated to apply my knowledge and skills as a GoLang/Python developer. My goal is not only to support existing projects, but also to actively contribute to their improvement, contributing to the development of your company.
+  - Given my wealth of experience and dedication, I am highly motivated to apply my knowledge and skills as a GoLang/Python developer. My goal is not only to support existing projects, but also to actively contribute to their improvement, contributing to the development.
 <br/>  
 
 ## Rapidfire  
