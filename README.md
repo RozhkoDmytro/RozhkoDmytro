@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Dmytro Rozhko!  
   
 
-<a href="https://github.com/RozhkoGoLang" target="_blank">
+<a href="https://github.com/RozhkoDmytro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/dmytro-rozhko" target="_blank">
@@ -13,7 +13,7 @@
 
 ### Glad to see you here!  
   - I have more than 15 years of successful experience in IT, specialising in architecture and development of ERP business solutions
-  - I am currently looking to move into GoLang/Python development, which is supported by my recent training and education in this area. My knowledge of accounting systems, experience with MSSQL, PostgreSQL and understanding of business processes, systematic approach to work, along with my quick learning ability allow me to effectively adapt to new technologies and programming languages.
+  - I am currently looking to move into GoLang/Python development, which is supported by my recent training and education in this area. My knowledge of accounting systems, experience with MSSQL, PostgreSQL, Docker, Django, DRF and understanding of business processes, systematic approach to work, along with my quick learning ability allow me to effectively adapt to new technologies and programming languages.
   - Due to my ability to minimise risks and solve complex problems, I have effectively avoided numerous problems related to the growth of information bases and data security. 
   - As a leader, I have ensured high productivity and efficiency of teams, working effectively in both project-based and Agile styles.
   - My experience in process optimisation and automation, including the implementation of release-based approaches and systematisation of task description requirements, translates into the ability to effectively manage time and resources, providing accurate estimates and taking responsibility for key deliverables.
