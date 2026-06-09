@@ -16,14 +16,16 @@
 | PostgreSQL & sqlc | ████████░░ | Production + Cloud Run monolith |
 | Messaging (RabbitMQ, NATS) | ███████░░░ | Commercial + UserActivityTracker |
 | AI pipelines (RAG, pgvector, MCP) | ██████░░░░ | Cabina.ai, Beehive Logic |
-| Cloud & ops (Docker, CI/CD, GCP) | ███████░░░ | Freelance + github-releases-observer |
+| Cloud & ops (Docker, CI/CD, GCP, AWS) | ███████░░░ | Freelance + github-releases-observer |
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
@@ -33,8 +35,6 @@
 |-------|-----------|-------|
 | [github-releases-observer](https://github.com/RozhkoDmytro/github-releases-observer) | Production monolith on **GCP Cloud Run** — REST API, release scanner, email notifier; OpenAPI, sqlc, Redis, CI/CD, Prometheus | Go · PostgreSQL · Redis · gRPC |
 | [UserActivityTracker](https://github.com/RozhkoDmytro/UserActivityTracker) | High-throughput event collection (API + worker), NATS JetStream, observability | Go · PostgreSQL · NATS · uber/fx |
-| [WeatherTelegramBot](https://github.com/RozhkoDmytro/WeatherTelegramBot) | Go Telegram bot — external API integration, bot lifecycle | Go · Telegram API |
-| [200GoLangQuestions](https://github.com/RozhkoDmytro/200GoLangQuestions) | Go interview prep notes and question bank (study log) | Go |
 
 ---
 
@@ -61,14 +61,14 @@ Prior career: 15+ years enterprise IT before 2025 (details on request).
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RozhkoDmytro&show_icons=true&theme=default&hide_border=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RozhkoDmytro&show_icons=true&theme=graywhite&hide_border=true&count_private=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=RozhkoDmytro&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub streak](https://streak-stats.demolab.com?user=RozhkoDmytro&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/D20_icon.svg" width="32" alt="D20" />
+  🎲
   <br/>
   <sub>Roll for initiative → <a href="mailto:d.rozhko.ua@gmail.com">open a quest (email)</a></sub>
 </p>
