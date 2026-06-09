@@ -17,7 +17,6 @@ jobs:
       - name: Update tenure text in README
         run: |
           python3 << 'PY'
-          import calendar
           import re
           from datetime import date
           from pathlib import Path
@@ -25,21 +24,20 @@ jobs:
           START = date(2025, 4, 1)
           today = date.today()
 
-          years = today.year - START.year
-          months = today.month - START.month
-          if today.day < START.day:
-              months -= 1
-          if months < 0:
-              years -= 1
-              months += 12
+          # Inclusive month count: first month (Apr 2025) and current month both full
+          months_total = (today.year - START.year) * 12 + (today.month - START.month) + 1
+          years = months_total // 12
+          months = months_total % 12
 
           parts = []
           if years:
               parts.append(f"{years}y")
-          if months or not years:
+          if months:
               parts.append(f"{months}m")
-          tenure = " ".join(parts)
-          replacement = f"<!-- tenure:start -->**{tenure} commercial Go**<!-- tenure:end -->"
+          tenure = " ".join(parts) if parts else "1m"
+          replacement = (
+              f"<!-- tenure:start --><strong>{tenure} commercial Go</strong><!-- tenure:end -->"
+          )
 
           readme = Path("README.md")
           text = readme.read_text(encoding="utf-8")
