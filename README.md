@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2EA44F&center=false&vCenter=true&width=500&lines=Go+Backend+Developer;Remote+%7C+Kyiv%2C+Ukraine;SaaS+APIs+%26+data+pipelines)](https://git.io/typing-svg)
 
-[![Commercial Go tenure](https://img.shields.io/badge/dynamic/json?label=commercial%20Go&query=%24.message&url=https://raw.githubusercontent.com/RozhkoDmytro/RozhkoDmytro/main/experience.json&color=2ea44f&logo=go&style=flat-square)](https://github.com/RozhkoDmytro)
-· fully remote · SaaS backends, parsers, RAG & MCP in production · *since Apr 2025*
+<!-- tenure:start -->**1y 2m commercial Go**<!-- tenure:end --> · fully remote · SaaS backends, parsers, RAG & MCP in production
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dmytro--rozhko-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dmytro-rozhko)
 [![Email](https://img.shields.io/badge/Email-d.rozhko.ua%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:d.rozhko.ua@gmail.com)
