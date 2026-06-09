@@ -1,47 +1,82 @@
-## Hey 👋, I'm Dmytro Rozhko!  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2EA44F&center=false&vCenter=true&width=500&lines=Middle+Go+Backend+Developer;Remote+%7C+Kyiv%2C+Ukraine;SaaS+APIs+%26+data+pipelines)](https://git.io/typing-svg)
 
-<a href="https://github.com/RozhkoDmytro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dmytro-rozhko" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+**14+ months commercial Go** · fully remote · SaaS backends, parsers, RAG & MCP in production
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dmytro--rozhko-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dmytro-rozhko)
+[![Email](https://img.shields.io/badge/Email-d.rozhko.ua%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:d.rozhko.ua@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-available%20on%20request-555?style=flat-square)](mailto:d.rozhko.ua@gmail.com?subject=Resume%20request)
 
+---
 
-### Glad to see you here!  
-  - I have more than 15 years of successful experience in IT, specialising in architecture and development of ERP business solutions
-  - I am currently looking to move into GoLang/Python development, which is supported by my recent training and education in this area. My knowledge of accounting systems, experience with MSSQL, PostgreSQL, Docker, Django, DRF and understanding of business processes, systematic approach to work, along with my quick learning ability allow me to effectively adapt to new technologies and programming languages.
-  - Due to my ability to minimise risks and solve complex problems, I have effectively avoided numerous problems related to the growth of information bases and data security. 
-  - As a leader, I have ensured high productivity and efficiency of teams, working effectively in both project-based and Agile styles.
-  - My experience in process optimisation and automation, including the implementation of release-based approaches and systematisation of task description requirements, translates into the ability to effectively manage time and resources, providing accurate estimates and taking responsibility for key deliverables.
-  - Given my wealth of experience and dedication, I am highly motivated to apply my knowledge and skills as a GoLang/Python developer. My goal is not only to support existing projects, but also to actively contribute to their improvement, contributing to the development.
-<br/>  
+## Character Sheet
 
-## Rapidfire  
-- 🌱 I’m currently learning Kubernetes and approve GoLang and Python skills 
-- ❓ Ask me about anything related to ERP,IFRS stack and related techogies  
-- ⚡ Fun fact: I love playing D&D  
+| Stat | Level | Verified in |
+|------|-------|-------------|
+| Go (Golang) | ████████░░ | Beehive, Cabina, pet projects |
+| PostgreSQL & sqlc | ████████░░ | Production + Cloud Run monolith |
+| Messaging (RabbitMQ, NATS) | ███████░░░ | Commercial + UserActivityTracker |
+| AI pipelines (RAG, pgvector, MCP) | ██████░░░░ | Cabina.ai, Beehive Logic |
+| Cloud & ops (Docker, CI/CD, GCP) | ███████░░░ | Freelance + github-releases-observer |
 
-## Languages and Tools  
-<div align="center">
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>   
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-</div>  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-<br/>  
+---
 
+## Active Quests
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=RozhkoDmytro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+| Quest | Objective | Stack |
+|-------|-----------|-------|
+| [github-releases-observer](https://github.com/RozhkoDmytro/github-releases-observer) | Production monolith on **GCP Cloud Run** — REST API, release scanner, email notifier; OpenAPI, sqlc, Redis, CI/CD, Prometheus | Go · PostgreSQL · Redis · gRPC |
+| [UserActivityTracker](https://github.com/RozhkoDmytro/UserActivityTracker) | High-throughput event collection (API + worker), NATS JetStream, observability | Go · PostgreSQL · NATS · uber/fx |
+| [UserManagementRestAPI](https://github.com/RozhkoDmytro/UserManagementRestAPI) | User management REST API — auth patterns, CRUD, Go backend fundamentals | Go · REST · PostgreSQL |
+| [CursorRules](https://github.com/RozhkoDmytro/CursorRules) | Backend developer rules for Cursor — team-style conventions as code | Cursor · Go · backend practices |
+
+<details>
+<summary>Side quests</summary>
+
+- [WeatherTelegramBot](https://github.com/RozhkoDmytro/WeatherTelegramBot) — Go Telegram bot (weather API integration)
+- [200GoLangQuestions](https://github.com/RozhkoDmytro/200GoLangQuestions) — Go interview prep notes (personal study log)
+
+</details>
+
+---
+
+## Campaign Log
+
+| Period | Guild | Role |
+|--------|-------|------|
+| Apr 2026 – Present | **Beehive Logic** | Backend Developer — SaaS data-collection, parsers, MCP servers, RabbitMQ, AWS S3 |
+| Nov 2025 – May 2026 | **Freelance** | Backend Developer — 3–5 NDA client projects, parsers & automation, CI/CD |
+| Apr 2025 – Nov 2025 | **Cabina.ai** | Back-end Developer — RAG with pgvector, Meta messaging APIs, Go microservices |
+
+---
+
+## Loot
+
+| Item | Source | Date |
+|------|--------|------|
+| Go Developer | FoxmindEd | Sep 2024 – Mar 2025 |
+| Python & ML fundamentals (scikit-learn, model training) | SoftServe | Jun 2024 – Sep 2024 |
+
+Prior career: 15+ years enterprise IT before 2025 (details on request).
+
+---
+
+## Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RozhkoDmytro&show_icons=true&theme=default&hide_border=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=RozhkoDmytro&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/D20_icon.svg" width="32" alt="D20" />
+  <br/>
+  <sub>Roll for initiative → <a href="mailto:d.rozhko.ua@gmail.com">open a quest (email)</a></sub>
+</p>
