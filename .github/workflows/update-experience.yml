@@ -14,22 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Compute tenure from career start
+      - name: Update tenure text in README
         run: |
           python3 << 'PY'
-          import json
+          import calendar
+          import re
           from datetime import date
+          from pathlib import Path
 
-          START = date(2025, 4, 1)  # Cabina.ai — commercial Go (continuous since)
+          START = date(2025, 4, 1)
           today = date.today()
-          total_days = (today - START).days
 
           years = today.year - START.year
           months = today.month - START.month
-          days = today.day - START.day
-          if days < 0:
+          if today.day < START.day:
               months -= 1
-              days += 30
           if months < 0:
               years -= 1
               months += 12
@@ -37,35 +36,34 @@ jobs:
           parts = []
           if years:
               parts.append(f"{years}y")
-          if months:
+          if months or not years:
               parts.append(f"{months}m")
-          if days or not parts:
-              parts.append(f"{days}d")
-          compact = " ".join(parts)
-          message = f"{compact} · {total_days} days"
+          tenure = " ".join(parts)
+          replacement = f"<!-- tenure:start -->**{tenure} commercial Go**<!-- tenure:end -->"
 
-          payload = {
-              "schemaVersion": 1,
-              "label": "commercial Go",
-              "message": message,
-              "color": "2ea44f",
-              "startDate": START.isoformat(),
-              "totalDays": total_days,
-          }
-          with open("experience.json", "w", encoding="utf-8") as f:
-              json.dump(payload, f, indent=2)
-              f.write("\n")
-          print("Updated:", message)
+          readme = Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+          updated, count = re.subn(
+              r"<!-- tenure:start -->.*?<!-- tenure:end -->",
+              replacement,
+              text,
+              count=1,
+              flags=re.DOTALL,
+          )
+          if count != 1:
+              raise SystemExit("Tenure markers not found in README.md")
+          readme.write_text(updated, encoding="utf-8")
+          print("Tenure:", tenure)
           PY
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add experience.json
+          git add README.md
           if git diff --staged --quiet; then
             echo "No changes"
             exit 0
           fi
-          git commit -m "chore: update commercial Go tenure badge"
+          git commit -m "chore: update commercial Go tenure in README"
           git push
