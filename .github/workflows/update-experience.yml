@@ -1,0 +1,71 @@
+name: Update commercial Go tenure
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute tenure from career start
+        run: |
+          python3 << 'PY'
+          import json
+          from datetime import date
+
+          START = date(2025, 4, 1)  # Cabina.ai — commercial Go (continuous since)
+          today = date.today()
+          total_days = (today - START).days
+
+          years = today.year - START.year
+          months = today.month - START.month
+          days = today.day - START.day
+          if days < 0:
+              months -= 1
+              days += 30
+          if months < 0:
+              years -= 1
+              months += 12
+
+          parts = []
+          if years:
+              parts.append(f"{years}y")
+          if months:
+              parts.append(f"{months}m")
+          if days or not parts:
+              parts.append(f"{days}d")
+          compact = " ".join(parts)
+          message = f"{compact} · {total_days} days"
+
+          payload = {
+              "schemaVersion": 1,
+              "label": "commercial Go",
+              "message": message,
+              "color": "2ea44f",
+              "startDate": START.isoformat(),
+              "totalDays": total_days,
+          }
+          with open("experience.json", "w", encoding="utf-8") as f:
+              json.dump(payload, f, indent=2)
+              f.write("\n")
+          print("Updated:", message)
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add experience.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "chore: update commercial Go tenure badge"
+          git push
