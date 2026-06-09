@@ -61,9 +61,13 @@ Prior career: 15+ years enterprise IT before 2025 (details on request).
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RozhkoDmytro&show_icons=true&theme=graywhite&hide_border=true&count_private=false&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- github-readme-stats.vercel.app often returns 503; use profile-summary-cards instead -->
 
-[![GitHub streak](https://streak-stats.demolab.com?user=RozhkoDmytro&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RozhkoDmytro&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RozhkoDmytro&theme=github)
+
+[![GitHub streak](https://streak-stats.demolab.com?user=RozhkoDmytro&theme=github&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
