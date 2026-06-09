@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2EA44F&center=false&vCenter=true&width=500&lines=Middle+Go+Backend+Developer;Remote+%7C+Kyiv%2C+Ukraine;SaaS+APIs+%26+data+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2EA44F&center=false&vCenter=true&width=500&lines=Go+Backend+Developer;Remote+%7C+Kyiv%2C+Ukraine;SaaS+APIs+%26+data+pipelines)](https://git.io/typing-svg)
 
 **14+ months commercial Go** · fully remote · SaaS backends, parsers, RAG & MCP in production
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dmytro--rozhko-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dmytro-rozhko)
 [![Email](https://img.shields.io/badge/Email-d.rozhko.ua%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:d.rozhko.ua@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-available%20on%20request-555?style=flat-square)](mailto:d.rozhko.ua@gmail.com?subject=Resume%20request)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/RozhkoDmytro/RozhkoDmytro/raw/main/resume/Dmytro_Rozhko_Go_Backend.pdf)
 
 ---
 
@@ -12,7 +12,7 @@
 
 | Stat | Level | Verified in |
 |------|-------|-------------|
-| Go (Golang) | ████████░░ | Beehive, Cabina, pet projects |
+| Go (Golang) | ████████░░ | [Beehive Logic](https://www.linkedin.com/company/beehive-logic/), [Cabina.ai](https://www.linkedin.com/company/cabina-ai/), pet projects |
 | PostgreSQL & sqlc | ████████░░ | Production + Cloud Run monolith |
 | Messaging (RabbitMQ, NATS) | ███████░░░ | Commercial + UserActivityTracker |
 | AI pipelines (RAG, pgvector, MCP) | ██████░░░░ | Cabina.ai, Beehive Logic |
@@ -33,16 +33,8 @@
 |-------|-----------|-------|
 | [github-releases-observer](https://github.com/RozhkoDmytro/github-releases-observer) | Production monolith on **GCP Cloud Run** — REST API, release scanner, email notifier; OpenAPI, sqlc, Redis, CI/CD, Prometheus | Go · PostgreSQL · Redis · gRPC |
 | [UserActivityTracker](https://github.com/RozhkoDmytro/UserActivityTracker) | High-throughput event collection (API + worker), NATS JetStream, observability | Go · PostgreSQL · NATS · uber/fx |
-| [UserManagementRestAPI](https://github.com/RozhkoDmytro/UserManagementRestAPI) | User management REST API — auth patterns, CRUD, Go backend fundamentals | Go · REST · PostgreSQL |
-| [CursorRules](https://github.com/RozhkoDmytro/CursorRules) | Backend developer rules for Cursor — team-style conventions as code | Cursor · Go · backend practices |
-
-<details>
-<summary>Side quests</summary>
-
-- [WeatherTelegramBot](https://github.com/RozhkoDmytro/WeatherTelegramBot) — Go Telegram bot (weather API integration)
-- [200GoLangQuestions](https://github.com/RozhkoDmytro/200GoLangQuestions) — Go interview prep notes (personal study log)
-
-</details>
+| [WeatherTelegramBot](https://github.com/RozhkoDmytro/WeatherTelegramBot) | Go Telegram bot — external API integration, bot lifecycle | Go · Telegram API |
+| [200GoLangQuestions](https://github.com/RozhkoDmytro/200GoLangQuestions) | Go interview prep notes and question bank (study log) | Go |
 
 ---
 
@@ -50,9 +42,9 @@
 
 | Period | Guild | Role |
 |--------|-------|------|
-| Apr 2026 – Present | **Beehive Logic** | Backend Developer — SaaS data-collection, parsers, MCP servers, RabbitMQ, AWS S3 |
+| Apr 2026 – Present | [**Beehive Logic**](https://www.linkedin.com/company/beehive-logic/) | Backend Developer — SaaS data-collection, parsers, MCP servers, RabbitMQ, AWS S3 |
 | Nov 2025 – May 2026 | **Freelance** | Backend Developer — 3–5 NDA client projects, parsers & automation, CI/CD |
-| Apr 2025 – Nov 2025 | **Cabina.ai** | Back-end Developer — RAG with pgvector, Meta messaging APIs, Go microservices |
+| Apr 2025 – Nov 2025 | [**Cabina.ai**](https://www.linkedin.com/company/cabina-ai/) | Back-end Developer — RAG with pgvector, Meta messaging APIs, Go microservices |
 
 ---
 
