@@ -42,9 +42,9 @@
 
 | Period | Guild | Role |
 |--------|-------|------|
-| Apr 2026 – Present | [**Beehive Logic**](https://www.linkedin.com/company/beehive-logic/) | Backend Developer — SaaS data-collection, parsers, MCP servers, RabbitMQ, AWS S3 |
-| Nov 2025 – May 2026 | **Freelance** | Backend Developer — 3–5 NDA client projects, parsers & automation, CI/CD |
-| Apr 2025 – Nov 2025 | [**Cabina.ai**](https://www.linkedin.com/company/cabina-ai/) | Back-end Developer — RAG with pgvector, Meta messaging APIs, Go microservices |
+| Apr 2026 – Present | [**Beehive Logic**](https://www.linkedin.com/company/beehive-logic/) | Backend Developer — SaaS data-collection, parsers (Gin/chi), MCP, RabbitMQ, Prometheus, OpenAPI, AWS S3 |
+| Nov 2025 – May 2026 | **Freelance** | Backend Developer — 3–5 NDA client projects, parsers (Gin/chi) & automation, CI/CD |
+| Apr 2025 – Nov 2025 | [**Cabina.ai**](https://www.linkedin.com/company/cabina-ai/) | Back-end Developer — RAG with pgvector, Meta APIs, OpenAPI, Prometheus, Go microservices |
 
 ---
 
