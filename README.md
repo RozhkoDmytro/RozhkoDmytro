@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=2EA44F&center=false&vCenter=true&width=500&lines=Go+Backend+Developer;Remote+%7C+Kyiv%2C+Ukraine;SaaS+APIs+%26+data+pipelines)](https://git.io/typing-svg)
 
-<!-- tenure:start --><strong>1y 5m commercial Go</strong><!-- tenure:end --> · fully remote · SaaS backends, parsers, RAG & MCP in production
+<!-- tenure:start --><strong>1y 3m commercial Go</strong><!-- tenure:end --> · fully remote · SaaS backends, parsers, RAG & MCP in production
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dmytro--rozhko-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dmytro-rozhko)
 [![Email](https://img.shields.io/badge/Email-d.rozhko.ua%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:d.rozhko.ua@gmail.com)
@@ -42,7 +42,7 @@
 
 | Period | Guild | Role |
 |--------|-------|------|
-| Apr 2026 – Present | [**Beehive Logic**](https://www.linkedin.com/company/beehive-logic/) | Backend Developer — SaaS data-collection, parsers (Gin/chi), MCP, RabbitMQ, Prometheus, OpenAPI, AWS S3 |
+| Apr 2026 – Present | [**Beehive Logic**](https://www.linkedin.com/company/beehive-logic/) | Backend Developer — SaaS data-collection, parsers (Gin/chi), MCP, RabbitMQ, Prometheus, OpenAPI, AWS S3; PostgreSQL profiling with EXPLAIN (ANALYZE, BUFFERS) on paged lists |
 | Nov 2025 – May 2026 | **Freelance** | Backend Developer — 3–5 NDA client projects, parsers (Gin/chi) & automation, CI/CD |
 | Apr 2025 – Nov 2025 | [**Cabina.ai**](https://www.linkedin.com/company/cabina-ai/) | Back-end Developer — RAG with pgvector, Meta APIs, OpenAPI, Prometheus, Go microservices |
 
