@@ -14,8 +14,8 @@
 |------|-------|-------------|
 | Go (Golang) | ████████░░ | [Beehive Logic](https://www.linkedin.com/company/beehive-logic/), [Cabina.ai](https://www.linkedin.com/company/cabina-ai/), pet projects |
 | PostgreSQL & sqlc | █████████░ | Production + Cloud Run monolith |
-| Messaging (RabbitMQ, NATS) | █████░░░░░ | Commercial + UserActivityTracker |
-| AI pipelines (RAG, pgvector, MCP) | ██████░░░░ | Cabina.ai, Beehive Logic |
+| Messaging (RabbitMQ, NATS) | ███████░░░ | Commercial + UserActivityTracker |
+| AI pipelines (RAG, pgvector, MCP) | ███████░░░ | Cabina.ai, Beehive Logic |
 | Cloud & ops (Docker, CI/CD, GCP, AWS) | █████░░░░░ | Freelance + github-releases-observer |
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
