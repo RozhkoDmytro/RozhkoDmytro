@@ -13,7 +13,7 @@
 | Stat | Level | Verified in |
 |------|-------|-------------|
 | Go (Golang) | ████████░░ | [Beehive Logic](https://www.linkedin.com/company/beehive-logic/), [Cabina.ai](https://www.linkedin.com/company/cabina-ai/), pet projects |
-| PostgreSQL & sqlc | ████████░░ | Production + Cloud Run monolith |
+| PostgreSQL & sqlc | █████████░ | Production + Cloud Run monolith |
 | Messaging (RabbitMQ, NATS) | █████░░░░░ | Commercial + UserActivityTracker |
 | AI pipelines (RAG, pgvector, MCP) | ██████░░░░ | Cabina.ai, Beehive Logic |
 | Cloud & ops (Docker, CI/CD, GCP, AWS) | █████░░░░░ | Freelance + github-releases-observer |
